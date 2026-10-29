@@ -1,4 +1,4 @@
-Import numpy as 
+Import numpy as np
 class RenewableEnergy:
 
     def __init__(self):
